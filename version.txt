@@ -1,1 +1,1 @@
-set vermclche=0.1.0 BETA
+set mcver=0.1.0-beta
